@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast,Trying to make an Impact</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak-oza" alt="palak-oza" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src=https://previews.123rf.com/images/skypicsstudio/skypicsstudio1903/skypicsstudio190300242/124490095-vector-illustration-of-graphic-designer-team-computer-drawing-tools-and-accessories-design-studio-or.jpg?fj=1>
 - 🌱 I’m currently learning **Web development(Html,css,js),C++,Python,C**
 
 - 📫 How to reach me **palak.s.oza@gmail.com**
@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/palakoza5s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakoza5s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/palak-oza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-oza" height="30" width="40" /></a>
-<img align="right" alt="Coding" width="400" src=https://previews.123rf.com/images/skypicsstudio/skypicsstudio1903/skypicsstudio190300242/124490095-vector-illustration-of-graphic-designer-team-computer-drawing-tools-and-accessories-design-studio-or.jpg?fj=1>
 <a href="https://instagram.com/palakoza_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palakoza_5" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/palak_s_oza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palak_s_oza" height="30" width="40" /></a>
 </p>
