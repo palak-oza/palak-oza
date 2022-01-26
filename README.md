@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I love dancing,acting,art and food!**
 
+-     Find more at: https://d.docs.live.net/d69a7c701bed6ef5/Documents/PALAK%20OZA.pdf
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palakoza5s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakoza5s" height="30" width="40" /></a>
