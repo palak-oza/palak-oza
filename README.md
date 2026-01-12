@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak-oza" alt="palak-oza" /></a> </p>
 <img align="right" alt="Coding" width="400" src=https://previews.123rf.com/images/skypicsstudio/skypicsstudio1903/skypicsstudio190300242/124490095-vector-illustration-of-graphic-designer-team-computer-drawing-tools-and-accessories-design-studio-or.jpg?fj=1>
 - 🌱 A recent graduate with a passion for Machine Learning and Artificial Intelligence. As a fresher in this dynamic field, I am enthusiastic about leveraging cutting-edge technologies to tackle real-world challenges. 
-I am eager to embark on a career where I can contribute my skills to drive innovation and make a positive impact. I am currently seeking opportunities to collaborate with passionate teams and learn from experienced professionals in the field of ML/AI.**
+I am eager to embark on a career where I can contribute my skills to drive innovation and make a positive impact. I am currently seeking opportunities to collaborate with passionate teams and learn from experienced professionals in the field of ML/AI.
 
 - 📫 How to reach me **palak.s.oza@gmail.com**
 
-- ⚡ Fun fact **I love dancing,acting,art and food!**
+- ⚡ Fun fact **I work to provide intelligence to Drones!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
